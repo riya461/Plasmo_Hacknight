@@ -2,19 +2,28 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Shopifinder
+This is an extension created using a plasmo. When you want to buy a beautiful accessory someone is wearing just right click on the image and find in shopifinder. It finds the product for you.
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+
+1. [Riya Sabu](https://github.com/riya461)
+2. [Saniya Teresa](https://github.com/iamsaniya)
+3. [Meera](https://github.com/sea-salt-ed)
+
 ## Link to product walkthrough
-[link to video]
+The product not complete
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+The product not complete
+
 ## Libraries used
-Library Name - Version
+    google-search-results-nodejs : ^2.1.0,
+    plasmo: 0.65.0,
+    react: 18.2.0,
+    react-dom: 18.2.0,
+    serpapi: ^1.1.1
 ## How to configure
-Instructions for setting up project
+The product not complete
+
 ## How to Run
-Instructions for running
+The product not complete
+
