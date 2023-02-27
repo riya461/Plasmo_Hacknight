@@ -1,3 +1,4 @@
+import React from "react"
 import { useEffect, useState } from "react"
 
 
@@ -17,12 +18,7 @@ function IndexPopup() {
   }, [currentUrl])
 
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        padding: 16
-      }}>
+    <div>
       <h2>
         Shopifinder 
       </h2>
